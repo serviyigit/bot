@@ -1,0 +1,53 @@
+{
+  "config": {
+    "banRoleId": null,
+    "kickRoleId": null,
+    "muteRoleId": null,
+    "mutedRoleId": null,
+    "welcomeChannelId": null,
+    "welcomeMessage": "{user} sunucuya katıldı! Şu anda {memberCount} kişiyiz.",
+    "leaveMessage": "{user} sunucudan ayrıldı! {memberCount} kişi kaldık.",
+    "autoRoleId": null,
+    "autoRoleEnabled": false,
+    "modLogChannelId": null,
+    "serverLogChannelId": null,
+    "embedColor": "#0099ff",
+    "maxWarnings": 3,
+    "warningPunishment": "mute",
+    "warningTimeout": 604800000,
+    "antiSpamEnabled": false,
+    "antiSpamThreshold": 5,
+    "antiSpamInterval": 3000,
+    "antiSpamAction": "mute",
+    "antiSpamMuteDuration": 300000
+  },
+  "stats": {
+    "bans": 0,
+    "kicks": 0,
+    "mutes": 1,
+    "warnings": 0,
+    "messagesSent": 0,
+    "messagesDeleted": 0,
+    "joins": 0,
+    "leaves": 0,
+    "spamDetected": 0
+  },
+  "punishments": {
+    "1197808695770349630": {
+      "bans": [],
+      "kicks": [],
+      "mutes": [
+        {
+          "userId": "1197808695770349630",
+          "moderatorId": "1246506868977696811",
+          "reason": "Spam yapma",
+          "duration": 600000,
+          "timestamp": 1743446036647,
+          "expiresAt": 1743446636648
+        }
+      ]
+    }
+  },
+  "warnings": {},
+  "mutes": {}
+}

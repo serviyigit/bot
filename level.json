@@ -1,0 +1,41 @@
+{
+  "guilds": {
+    "1355505011144134656": {
+      "enabled": false,
+      "levelUpChannel": null,
+      "levelUpMessage": "🎉 Tebrikler {user}! **{level}** seviyesine ulaştın!",
+      "xpRate": 1,
+      "levelUpNotification": "channel",
+      "ignoredChannels": [],
+      "ignoredRoles": [],
+      "noXpRoles": [],
+      "roleRewards": {},
+      "cooldown": 60000
+    },
+    "1320427682470559825": {
+      "enabled": false,
+      "levelUpChannel": null,
+      "levelUpMessage": "🎉 Tebrikler {user}! **{level}** seviyesine ulaştın!",
+      "xpRate": 1,
+      "levelUpNotification": "channel",
+      "ignoredChannels": [],
+      "ignoredRoles": [],
+      "noXpRoles": [],
+      "roleRewards": {},
+      "cooldown": 60000
+    },
+    "1244680965704515604": {
+      "enabled": false,
+      "levelUpChannel": null,
+      "levelUpMessage": "🎉 Tebrikler {user}! **{level}** seviyesine ulaştın!",
+      "xpRate": 1,
+      "levelUpNotification": "channel",
+      "ignoredChannels": [],
+      "ignoredRoles": [],
+      "noXpRoles": [],
+      "roleRewards": {},
+      "cooldown": 60000
+    }
+  },
+  "users": {}
+}

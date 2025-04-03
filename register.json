@@ -1,0 +1,40 @@
+{
+  "guilds": {
+    "1320427682470559825": {
+      "enabled": false,
+      "welcomeChannel": null,
+      "registerChannel": null,
+      "registerLog": null,
+      "staffRole": null,
+      "unregisteredRole": null,
+      "memberRole": null,
+      "maleRole": null,
+      "femaleRole": null,
+      "customRoles": {},
+      "welcomeMessage": "Hoş geldin {user}! Kayıt olmak için yetkilileri bekleyin.",
+      "autoRegister": false,
+      "nameFormat": "{name} | {age}",
+      "minAge": 13,
+      "requireAge": false
+    },
+    "1355505011144134656": {
+      "enabled": false,
+      "welcomeChannel": null,
+      "registerChannel": null,
+      "registerLog": null,
+      "staffRole": null,
+      "unregisteredRole": null,
+      "memberRole": null,
+      "maleRole": null,
+      "femaleRole": null,
+      "customRoles": {},
+      "welcomeMessage": "Hoş geldin {user}! Kayıt olmak için yetkilileri bekleyin.",
+      "autoRegister": false,
+      "nameFormat": "{name} | {age}",
+      "minAge": 13,
+      "requireAge": false
+    }
+  },
+  "users": {},
+  "stats": {}
+}

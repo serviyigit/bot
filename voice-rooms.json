@@ -1,0 +1,31 @@
+{
+  "rooms": {},
+  "config": {
+    "enabled": false,
+    "lobbyChannelId": null,
+    "categoryId": null,
+    "autoDeleteEmptyRooms": true,
+    "maxRoomsPerUser": 1,
+    "cooldown": 60,
+    "defaultUserLimit": 5,
+    "roomNameTemplate": "{username} Odası",
+    "roomSizeOptions": [
+      2,
+      5,
+      10,
+      25,
+      99
+    ],
+    "roomNameCharLimit": 30,
+    "allowedPrivateRoles": [],
+    "adminRoleId": null,
+    "logChannelId": null
+  },
+  "stats": {
+    "totalRoomsCreated": 0,
+    "activeRooms": 0,
+    "totalUsersJoined": 0,
+    "maxConcurrentRooms": 0
+  },
+  "userSettings": {}
+}

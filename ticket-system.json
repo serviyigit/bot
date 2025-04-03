@@ -1,0 +1,67 @@
+{
+  "config": {
+    "categoryId": "1357242014781145149",
+    "supportRoleId": "1357244631137386546",
+    "channelId": "1357242083592765530",
+    "logChannelId": "1292710527113367605",
+    "welcomeMessage": "Ben Yetkilileri Etiketledim Senin Etiketlemene Gerek Yok; Yetkililerimiz Kısa Süre İçersinde tickete Bakacaktır 🙂",
+    "embedColor": "#0099ff",
+    "ticketCounter": 4,
+    "maxTicketsPerUser": 1,
+    "buttonLabel": "Ticket Aç",
+    "ticketTypes": []
+  },
+  "tickets": [
+    {
+      "ticketId": "ticket-1",
+      "channelId": "1357245705839841282",
+      "creatorId": "1168540422524645450",
+      "creatorTag": "hiyarbey31",
+      "reason": "Kullanıcı tarafından talep edildi",
+      "type": null,
+      "status": "deleted",
+      "createdAt": "2025-04-03T06:49:52.099Z",
+      "closedAt": "2025-04-03T06:54:45.331Z",
+      "closedBy": "1168540422524645450",
+      "reopenedBy": "1168540422524645450",
+      "reopenedAt": "2025-04-03T06:54:41.987Z"
+    },
+    {
+      "ticketId": "ticket-2",
+      "channelId": "1357246999077851282",
+      "creatorId": "1168540422524645450",
+      "creatorTag": "hiyarbey31",
+      "reason": "Kullanıcı tarafından talep edildi",
+      "type": null,
+      "status": "deleted",
+      "createdAt": "2025-04-03T06:55:00.480Z",
+      "closedAt": "2025-04-03T06:56:03.546Z",
+      "closedBy": "1168540422524645450"
+    },
+    {
+      "ticketId": "ticket-3",
+      "channelId": "1357247321561366609",
+      "creatorId": "1168540422524645450",
+      "creatorTag": "hiyarbey31",
+      "reason": "Kullanıcı tarafından talep edildi",
+      "type": null,
+      "status": "deleted",
+      "createdAt": "2025-04-03T06:56:17.344Z",
+      "closedAt": "2025-04-03T06:56:29.920Z",
+      "closedBy": "1168540422524645450"
+    },
+    {
+      "ticketId": "ticket-4",
+      "channelId": "1357389437696348191",
+      "creatorId": "1168540422524645450",
+      "creatorTag": "hiyarbey31",
+      "reason": "Kullanıcı tarafından talep edildi",
+      "type": null,
+      "status": "deleted",
+      "createdAt": "2025-04-03T16:21:01.129Z",
+      "closedAt": "2025-04-03T16:21:09.549Z",
+      "closedBy": "1168540422524645450"
+    }
+  ],
+  "activeTickets": {}
+}
